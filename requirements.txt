@@ -1,0 +1,8 @@
+packages to be imported 
+
+SpeechRecognition
+pyttsx3
+pywhatkit
+pyjokes
+gtts
+playsound
